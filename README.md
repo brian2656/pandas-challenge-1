@@ -2,7 +2,7 @@
 Week 4 Challenge
 requirements: python, jupyter notebook
 
-Usage: import csv files
+Usage: import csv files, connect jupyter lab
 
 Use Pandas to extract required category, subcategory, and client data
 Transform the data for ease of understanding and analysis
